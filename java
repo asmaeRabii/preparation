@@ -4,6 +4,7 @@ public class a{
 
 
     int t = 1;
+    int i=10;
  }
 
 
